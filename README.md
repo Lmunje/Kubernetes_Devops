@@ -35,7 +35,7 @@ Setup
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-repo/kubernetes_devops.git
+git clone https://github.com/lmunje/kubernetes_devops.git
 cd kubernetes_devops
 2. Deploy Kubernetes Cluster
 Set up your Kubernetes cluster either locally (using Minikube) or on a cloud provider (AWS, GCP, Azure).
